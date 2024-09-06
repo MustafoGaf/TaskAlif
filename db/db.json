@@ -1,0 +1,572 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": "Агбаш Андрей Захарович",
+      "job": "Директор – врач-рентгенолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "2",
+      "fullName": "Гольденберг Александр Ефимович",
+      "job": "Врач ультразвуковой диагностики",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "3",
+      "fullName": "Елизов Олег Витальевич",
+      "job": "Врач- рентгенолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "4",
+      "fullName": "Зайка Евгения Александровна",
+      "job": "Врач-рентгенолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "5",
+      "fullName": "Захарова Татьяна Павловна",
+      "job": "Врач-педиатр",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "6",
+      "fullName": "Китина Екатерин Галдановна",
+      "job": "Зав.педиатрическим отделением– врач-педиатр",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "7",
+      "fullName": "Лахман Татьяна Владимировна",
+      "job": "Главный врач-акушер-гинеколог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "8",
+      "fullName": "Пахолкина Наталья Александровна",
+      "job": "Врач-терапевт",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "9",
+      "fullName": "Пяткова Марина Петровна",
+      "job": "Врач-педиатр",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "10",
+      "fullName": "Петрова Наталья Алексеевна",
+      "job": "Врач- эндоскопист",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "11",
+      "fullName": "Рудакова Любовь Валерьевна",
+      "job": "Врач-гастроэнтеролог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "12",
+      "fullName": "Рудина Дарья Игоревна",
+      "job": "Врач-дерматовенероло",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "13",
+      "fullName": "Фоминцева Анна Владимировна",
+      "job": "Врач-оториноларинго",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "14",
+      "fullName": "Свиридова Светлана Евгеньевна",
+      "job": "рентгенолаборан ",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "15",
+      "fullName": "Процак Наталья Ивановна",
+      "job": "Старшая медицинская сестра",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "16",
+      "fullName": "Иванова Екатерина Маратовна",
+      "job": "Медсестра процедурной",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "17",
+      "fullName": "Брюхова Юлия Владиславовна",
+      "job": "Рентгенолаборант",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "18",
+      "fullName": "Дмитриева Оксана Владимировна",
+      "job": "Медсестра процедурной",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "19",
+      "fullName": "Баринова Вероника Сергеевна",
+      "job": "Медсестра процедурной",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "20",
+      "fullName": "Березовская Юлия Юрьевна",
+      "job": "Медсестра процедурной",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "21",
+      "fullName": "Басхаев Александр Александрович",
+      "job": "Врач-реаниматолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "22",
+      "fullName": "Репин Евгений Алексеевич",
+      "job": "Врач-анестезиолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "23",
+      "fullName": "Репин Евгений Алексеевич",
+      "job": "Врач- рефлексотерапев",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "24",
+      "fullName": "Курнышова Виктория Николаевна",
+      "job": "Медицинская сестра",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "25",
+      "fullName": "Арсеньева Ольга Петровна",
+      "job": "Медицинская сестра",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "26",
+      "fullName": "Кручинова Галина Владимировна",
+      "job": "Врач- офтальмолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "27",
+      "fullName": "Алиуллина Ольга Юрьевна",
+      "job": "Врач- офтальмолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "28",
+      "fullName": "Бурий Вячеслав Викторович",
+      "job": "Врач- офтальмолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "29",
+      "fullName": "Новолодский Александр Иванович",
+      "job": "Врач- офтальмолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "30",
+      "fullName": "Москалева Екатерина Владимировна",
+      "job": "Врач- аллерголог- иммунолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "31",
+      "fullName": "Костогрнызов Александо Евгеньевич",
+      "job": "Врач- колопроктолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "32",
+      "fullName": "Агафонов Николай Евгеньевич",
+      "job": "Врач - травматолог - ортопед",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "33",
+      "fullName": "Булгакова Инга Владиславовна",
+      "job": "Врач-кардиолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "34",
+      "fullName": "Бахарев Никита Николаевич",
+      "job": "Врач-хирург детский",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "35",
+      "fullName": "Выгузов Артем Юрьевич",
+      "job": "Врач-акушер- гинеколог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "36",
+      "fullName": "Гальченко Екатерина Геннадьевна",
+      "job": "Врач- эндокринолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "37",
+      "fullName": "Денисова Татьяна Валерьевна",
+      "job": "Врач функциональной диагностики",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "38",
+      "fullName": "Демидович Наталья Георгиевна",
+      "job": "Врач-акушер- гинеколог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "39",
+      "fullName": "Дерягин Роман Борисович",
+      "job": "Врач-уролог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "40",
+      "fullName": "Ермолина Анна Константиновн",
+      "job": "Врач-акушер- гинеколог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "41",
+      "fullName": "Ерофеева Наталья Ильинична",
+      "job": "Врач функциональной диагностики",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "42",
+      "fullName": "Коренева Надежда Сергеевна",
+      "job": "Врач-педиатр",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "43",
+      "fullName": "Кравченко Раиса Михайловна",
+      "job": "Врач- дерматовенероло г",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "44",
+      "fullName": "Куторкин Виктор Геннадьевич",
+      "job": "Врач-сердечно- сосудистый хирург",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "45",
+      "fullName": "Летунова Ирина Казимировна",
+      "job": "Врач-кардиолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "46",
+      "fullName": "Лищук Ольга Анатольевна",
+      "job": "Врач функциональной диагностики",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "47",
+      "fullName": "Масейкин Денис Васильевич",
+      "job": "Врач-уролог- андролог детский",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Педиатрия"
+    },
+    {
+      "id": "48",
+      "fullName": "Маторина Ирина Дмитриевна",
+      "job": "Врач-невролог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "49",
+      "fullName": "Муравьев Павел Иванович",
+      "job": "Врач- сосудистый хирург",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "50",
+      "fullName": "Назарова Любовь Сергеевна",
+      "job": "Врач- эндокринолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "51",
+      "fullName": "Плаутина Людмила Алексеевна",
+      "job": "Врач- офтальмолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "52",
+      "fullName": "Пятков Юрий Сергеевич",
+      "job": "Врач УЗД",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "53",
+      "fullName": "Портяной Илья Александрович",
+      "job": "Врач- травматолог- ортопед",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "54",
+      "fullName": "Павличенко Ольга Вкиторовна",
+      "job": "Врач-акушер- гинеколог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "55",
+      "fullName": "Петрачкова Татьяна Николаевна",
+      "job": "Врач-ревматолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "56",
+      "fullName": "Рам Ольга Станиславовна",
+      "job": "Врач-терапевт",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "57",
+      "fullName": "Семенова Светлана Сергеевна",
+      "job": "Врач-гематолог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "58",
+      "fullName": "Смускина Евгения Александровна",
+      "job": "Врач-невролог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "59",
+      "fullName": "Фаркова Елена Александровна",
+      "job": "Врач- оториноларинго лог",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "60",
+      "fullName": "Хамидуллин Фарид Гигельевич",
+      "job": "Врач- нейрохирург",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "61",
+      "fullName": "Шангин Алексей Александрович",
+      "job": "Врач- эндоскопист",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": "62",
+      "fullName": "Янковский Алексей Борисович",
+      "job": "Врач-хирург",
+      "education": "Высшее",
+      "institution": "ТГМУ",
+      "yearOfGraduation": 2012,
+      "speciality": "Лечебное дело"
+    },
+    {
+      "id": 1725622102707,
+      "fullName": "гафоров Мустафо",
+      "job": "врач",
+      "education": "Высшее",
+      "institution": "12348768",
+      "yearOfGraduation": "2020",
+      "speciality": "Програмист"
+    }
+   
+  ]
+}

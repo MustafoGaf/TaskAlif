@@ -24,7 +24,7 @@ export default function MyModal({ click }){
           }
         );
         if(response.ok){
-            close()
+            click()
             setMessage('Данные успешно сохранено')
         }
 
